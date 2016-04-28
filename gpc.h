@@ -45,3 +45,4 @@ double gpc_error(const struct gpc_corr*co, const double*x);
 
 #endif
 
+modified it for text
